@@ -62,7 +62,7 @@ The Gradle build packages this source directly into the viewer module build dire
 python3 icon/scripts/generate_icons.py
 ```
 
-This replaces generated source art here from `themes/icon/bases/`, reviewed
+This replaces generated source art here from `icon/bases/`, reviewed
 `base-assignments.csv` and `supported-types.csv`, then refreshes the import
 layout and ZIP. Ordinary app builds do not regenerate the artwork.
 `build_freeicon_pack.py` exports these current sources for Freeicon review and
