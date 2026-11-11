@@ -1,0 +1,7 @@
+# Generated theme exports
+exports/
+icon/freeicon-pack/
+icon/__pycache__/
+icon/scripts/__pycache__/
+.DS_Store
+Thumbs.db
